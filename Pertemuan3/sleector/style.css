@@ -1,0 +1,27 @@
+h1,h2{
+    color: lightblue;
+    text-align: center;
+    font-size: 50px;
+}
+h1{
+    font-style: italic;
+}
+
+ul a{
+    color: orange;
+}
+ol a{
+    color: red;
+}
+
+#p1{
+    font-style: italic;
+    color: green;
+}
+#p2{
+    font-style: italic;
+    color: gray;
+}
+.miring{
+    font-style: italic;
+}
