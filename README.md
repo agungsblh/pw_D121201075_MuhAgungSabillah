@@ -20,7 +20,14 @@ Link Website: [Coba website](https://siclasssi.000webhostapp.com/SiClass/home.ph
  - [Arya Sona Iklamatul Huda (D121191085)]()
 
 ### Code Language
+This project is used by the following companies:
 
+- html
+- css
+- php
+- javascript
 
 ### Framework
+
+-Bootstrap 
 
