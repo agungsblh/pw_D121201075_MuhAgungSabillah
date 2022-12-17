@@ -14,9 +14,9 @@ Link Website: [Coba website](https://siclasssi.000webhostapp.com/SiClass/home.ph
 
 ## Kelompok 4 Web:
 
- - [Shekinah Queeny Limuang](https://github.com/shekinahqueeny)
- - [Teguh Ikhtiar Rhamdanu](https://github.com/teguhrh811)
- - [Iman Sya'arani Rusli](https://github.com/Muhiman19)
- - [Arya Sona Iklamatul Huda]()
+ - [Shekinah Queeny Limuang (D121201056)](https://github.com/shekinahqueeny)
+ - [Teguh Ikhtiar Rhamdanu (D121201067)](https://github.com/teguhrh811)
+ - [Iman Sya'arani Rusli (D121201092)](https://github.com/Muhiman19)
+ - [Arya Sona Iklamatul Huda (D121191085)]()
 
 
