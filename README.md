@@ -4,7 +4,7 @@ Nama    : Muhammad Agung Sabillah
 
 NIM     : D121201075
 
-Kelas   : Pemrograman Mobile C
+Kelas   : Pemrograman Web C
 
 Follow  : [@agung_sblh](https://www.instagram.com/agung_sblh/)
 
