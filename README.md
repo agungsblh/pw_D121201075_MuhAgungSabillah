@@ -31,3 +31,6 @@ Bahasa yang digunakan dalam projek ini:
 
 - Bootstrap 
 
+### Preview SiClass
+![smartmockups_lbrsaijk](https://user-images.githubusercontent.com/112092624/208237012-d6280832-094b-4b89-9772-c6531e086c78.jpg)
+
