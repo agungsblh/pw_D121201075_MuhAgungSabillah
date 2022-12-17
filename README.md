@@ -34,3 +34,5 @@ Bahasa yang digunakan dalam projek ini:
 ### Preview SiClass
 ![smartmockups_lbrsaijk](https://user-images.githubusercontent.com/112092624/208237012-d6280832-094b-4b89-9772-c6531e086c78.jpg)
 
+### Preview Panel Admin SiClass
+![smartmockups_lbrsfald](https://user-images.githubusercontent.com/112092624/208237107-fa7d75c5-3d09-4ca9-a2b0-24f1ceb51c90.jpg)
