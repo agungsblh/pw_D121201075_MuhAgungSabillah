@@ -1,4 +1,4 @@
-# Tugas Akhir Pemrograman Mobile : SiClass
+# Tugas Akhir Pemrograman Web : SiClass
 
 Nama    : Muhammad Agung Sabillah
 
